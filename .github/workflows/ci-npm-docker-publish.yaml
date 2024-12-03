@@ -6,7 +6,7 @@ on:
       - mains
   pull_request:
     types: 
-      - closed
+      - closeds
     branches:
       - main
   workflow_dispatch:
