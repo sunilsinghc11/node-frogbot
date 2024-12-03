@@ -8,7 +8,7 @@ on:
     types: 
       - closeds
     branches:
-      - main
+      - mains
   workflow_dispatch:
 
 jobs:
